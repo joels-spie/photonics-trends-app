@@ -1,0 +1,28 @@
+﻿publishers:
+  - name: SPIE
+    aliases: [Society of Photo-Optical Instrumentation Engineers]
+    prefixes: ["10.1117"]
+  - name: IEEE
+    aliases: [Institute of Electrical and Electronics Engineers]
+    prefixes: ["10.1109"]
+  - name: Optica
+    aliases: [OSA, The Optical Society, Optica Publishing Group]
+    prefixes: ["10.1364"]
+  - name: Elsevier
+    aliases: [Elsevier BV]
+    prefixes: ["10.1016"]
+  - name: Springer Nature
+    aliases: [Springer, Nature Portfolio]
+    prefixes: ["10.1007", "10.1038"]
+  - name: MDPI
+    aliases: [Multidisciplinary Digital Publishing Institute]
+    prefixes: ["10.3390"]
+  - name: Wiley
+    aliases: [John Wiley & Sons]
+    prefixes: ["10.1002"]
+  - name: Taylor & Francis
+    aliases: [Taylor and Francis]
+    prefixes: ["10.1080"]
+  - name: IOP
+    aliases: [IOP Publishing]
+    prefixes: ["10.1088"]

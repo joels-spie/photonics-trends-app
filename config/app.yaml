@@ -1,0 +1,16 @@
+﻿app:
+  name: Photonics Publishing Intelligence
+  version: 0.1.0
+  contact_email: contact@example.com
+  cache_ttl_hours: 24
+  request_timeout_sec: 30
+  max_retries: 4
+  backoff_base_sec: 0.8
+  max_records_default: 2000
+  rows_per_request: 200
+  low_coverage_threshold: 0.25
+  topic_catalog_lookback_years: 5
+  gap_analysis:
+    min_topic_cagr: 0.08
+    max_target_share: 0.12
+    min_topic_volume: 40

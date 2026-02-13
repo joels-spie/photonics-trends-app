@@ -1,0 +1,56 @@
+﻿topics:
+  - key: silicon_photonics
+    name: Silicon Photonics
+    keywords: [silicon photonics, silicon photonic]
+    synonyms: [SiPh, photonic integrated circuit, PIC]
+    negative_keywords: [silicon solar]
+  - key: lidar
+    name: LiDAR
+    keywords: [lidar, light detection and ranging]
+    synonyms: [laser radar]
+    negative_keywords: [sonar]
+  - key: quantum_photonics
+    name: Quantum Photonics
+    keywords: [quantum photonics, quantum optics]
+    synonyms: [single-photon, entangled photon]
+    negative_keywords: [quantum dot solar]
+  - key: hyperspectral_imaging
+    name: Hyperspectral Imaging
+    keywords: [hyperspectral imaging, hyperspectral]
+    synonyms: [spectral imaging]
+    negative_keywords: [audio spectral]
+  - key: integrated_photonics
+    name: Integrated Photonics
+    keywords: [integrated photonics, photonic integrated circuit]
+    synonyms: [PIC, integrated optical]
+    negative_keywords: [integrated circuit without optical]
+  - key: optical_metrology
+    name: Optical Metrology
+    keywords: [optical metrology, interferometry]
+    synonyms: [laser metrology, optical measurement]
+    negative_keywords: [electrical metrology]
+  - key: ultrafast_lasers
+    name: Ultrafast Lasers
+    keywords: [ultrafast laser, femtosecond laser]
+    synonyms: [picosecond laser, mode-locked laser]
+    negative_keywords: [slow light]
+  - key: vcsel
+    name: VCSEL
+    keywords: [VCSEL, vertical-cavity surface-emitting laser]
+    synonyms: [surface-emitting laser]
+    negative_keywords: [edge-emitting laser only]
+  - key: oct
+    name: Optical Coherence Tomography
+    keywords: [optical coherence tomography]
+    synonyms: [OCT imaging]
+    negative_keywords: [computed tomography without optical]
+  - key: computational_imaging
+    name: Computational Imaging
+    keywords: [computational imaging]
+    synonyms: [inverse imaging, coded aperture imaging]
+    negative_keywords: [computer graphics]
+  - key: neuromorphic_photonics
+    name: Neuromorphic Photonics
+    keywords: [neuromorphic photonics, photonic neural network]
+    synonyms: [optical neural network]
+    negative_keywords: [neuromorphic CMOS]
